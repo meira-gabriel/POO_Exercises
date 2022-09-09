@@ -1,6 +1,4 @@
 /*
-GABRIEL MEIRA LIMA - GU3020428
-
 EXERCÍCIO 1- LISTA 1
 1. Escreva um programa que leia um número inteiro fornecido pelo usuário, armazenando-o numa variável apropriada. Imprima o valor lido.
 */
