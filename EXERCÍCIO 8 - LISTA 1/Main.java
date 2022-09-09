@@ -1,6 +1,4 @@
 /*
-GABRIEL MEIRA LIMA - GU3020428
-
 EXERCÍCIO 8 - LISTA 1
 8. Leia três números inteiros fornecidos pelo usuário. Descubra qual deles é o maior de todos, imprimindo seu valor.
 */
