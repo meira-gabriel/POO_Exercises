@@ -1,8 +1,8 @@
 # POO_Project
 
-#College disciple POO activity lists
+College disciple POO activity lists
 
-#Collaborators
+# Collaborators
 <ul>
 <li><a href="https://github.com/carolanjos">Carolina dos Anjos</a></li>
 <li><a href="https://github.com/CesarTorres03">Cesar Torres</a></li>
