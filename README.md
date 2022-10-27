@@ -1,4 +1,4 @@
-# POO_Project
+# POO_Exercises
 
 College disciple POO activity lists
 
